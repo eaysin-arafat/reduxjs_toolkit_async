@@ -1,0 +1,13 @@
+{
+  "name": "git-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eaysin Arafat <eaysin.arafat.j@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "add": "^2.0.6",
+    "axios": "^1.4.0",
+    "yarn": "^1.22.19"
+  }
+}
